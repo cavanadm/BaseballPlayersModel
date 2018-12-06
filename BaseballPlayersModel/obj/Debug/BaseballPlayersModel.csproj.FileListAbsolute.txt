@@ -1,0 +1,14 @@
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\bin\Debug\Baseball.mdf
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\bin\Debug\Baseball_log.ldf
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\bin\Debug\EntityFramework.dll
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\bin\Debug\EntityFramework.xml
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\obj\Debug\BaseballPlayersModel.csprojAssemblyReference.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\obj\Debug\BaseballPlayersModel.csproj.CoreCompileInputs.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\obj\Debug\BaseballPlayersModel.csproj.CopyComplete
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\obj\Debug\BaseballPlayersModel.dll
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\obj\Debug\BaseballPlayersModel.pdb
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\bin\Debug\BaseballPlayersModel.dll.config
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\bin\Debug\BaseballPlayersModel.dll
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\BaseballPlayersModel\BaseballPlayersModel\bin\Debug\BaseballPlayersModel.pdb

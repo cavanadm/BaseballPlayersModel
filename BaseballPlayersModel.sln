@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballPlayersModel", "BaseballPlayersModel\BaseballPlayersModel.csproj", "{69C1A4B0-BCE3-467E-83D4-953ACC01C702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballPlayersDisplay", "BaseballPlayersDisplay\BaseballPlayersDisplay.csproj", "{BE676AD6-E86D-4770-B8EB-E0D1000315B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C1A4B0-BCE3-467E-83D4-953ACC01C702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C1A4B0-BCE3-467E-83D4-953ACC01C702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C1A4B0-BCE3-467E-83D4-953ACC01C702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C1A4B0-BCE3-467E-83D4-953ACC01C702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE676AD6-E86D-4770-B8EB-E0D1000315B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE676AD6-E86D-4770-B8EB-E0D1000315B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE676AD6-E86D-4770-B8EB-E0D1000315B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE676AD6-E86D-4770-B8EB-E0D1000315B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4D4F626-EE59-482A-A091-2D501F3B1A49}
+	EndGlobalSection
+EndGlobal
